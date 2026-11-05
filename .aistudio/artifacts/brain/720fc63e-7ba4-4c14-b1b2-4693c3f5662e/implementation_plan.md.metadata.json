@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for CareerLog (커리어로그), an AI-driven integrated career management platform for university students. Covers high-level architecture, 5 primary interconnected modules (My Career, AI Career Analysis, Tailored Recommendations, AI Cover Letter, Job Prep), OCR & Gemini integration with smart mock fallbacks, Toss/Notion/Linear-inspired SaaS UI, and unified reactive state store.",
+  "updatedAt": "2026-11-04T09:50:19.388886861Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CareerLog",
+  "description": "대학생의 모든 경험을 기록하고 AI로 역량 분석부터 취업 준비까지 연결하는 통합 커리어 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
